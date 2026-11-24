@@ -34,6 +34,14 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Running Tests
+
+From the `starter` directory, run the baseline test suite with:
+
+```bash
+pytest
+```
+
 6. Run the Flask app.
 
 ```bash
